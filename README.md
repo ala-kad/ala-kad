@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [E-commerce Application](https://github.com/ala-kad/e-commerce_django)
 
-- 🌱 I’m currently learning **Machine Learning, React and NextJS**
+- 🌱 I’m currently learning **AI, TypeScript, Angular, NestJS**
 
 - 📝 I regularly write articles on [LinkedIn](LinkedIn)
 
-- 💬 Ask me about **SQL, JavaScript, UI/UX, science.**
+- 💬 Ask me about **SQL, JavaScript, UI/UX, Computer Science.**
 
 - 📫 How to reach me **kaddechiala@gmail.com | +216 56 503 894**
 
