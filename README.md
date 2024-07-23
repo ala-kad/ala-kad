@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ala Kaddechi</h1>
+# Hi 👋, I'm Ala Kaddechi
 <h3 align="center">A software engineering student and experienced Front End developer from Tunisia.</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=151385&width=480&lines=Software+Engineer;+Front+End+Developer;DevOps+And+AI+Enthusiast)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ala-kaddechi/) 
+[![Upwork](https://img.shields.io/badge/upwork-%231DB954.svg?&style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01e2324660108e1882)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ala-kad&label=Profile%20views&color=0e75b6&style=flat" alt="ala-kad" /> </p>
 
