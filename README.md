@@ -1,7 +1,7 @@
 # Hi 👋, I'm Ala Kaddechi
 <h3 align="center">Fresh Grad software Engineer and experienced Full Stack developer from Tunisia.</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=151385&width=480&lines=Software+Engineer;Experienced+Front+End+Developer;Cloud+DevOps+AI+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=151385&width=480&lines=Software+Engineer;Experienced+Front+End+Developer;Cloud,+DevOps,+AI,+Enthusiast)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ala-kaddechi/) 
 [![Upwork](https://img.shields.io/badge/upwork-%231DB954.svg?&style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01e2324660108e1882)
@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ala-kad" alt="ala-kad" /></a> </p>
 
-- 🔭 I’m currently working on [E-commerce Application](https://github.com/ala-kad/e-commerce_django)
+- 🔭 I’m currently working on [Smar Careers - AI-Powered Recruitment System](https://github.com/ala-kad/smart-careers-backend;https://github.com/ala-kad/smart-careers-front)
 
 - 🌱 I’m currently learning **AI, TypeScript, Angular, NestJS**
 
