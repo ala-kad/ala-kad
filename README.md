@@ -10,9 +10,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ala-kad" alt="ala-kad" /></a> </p>
 
-- 🔭 I’m currently working on [Smar Careers - AI-Powered Recruitment System (backend)](https://github.com/ala-kad/smart-careers-backend)
-- 🔭 I’m currently working on [Smar Careers - AI-Powered Recruitment System (frontend)](https://github.com/ala-kad/smart-careers-front)
-- 🌱 I’m currently learning **AI, TypeScript, Angular, NestJS**
+- 🔭 I’m currently working on [My Online Porfolio (GitHub pages)](https://ala-kad.github.io/)
+- 🌱 I’m currently learning **AI, TypeScript, Angular**
 
 - 📝 I regularly write articles on [LinkedIn](LinkedIn)
 
