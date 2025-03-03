@@ -1,4 +1,4 @@
-<center> # Hi 👋, I'm Ala from Tunisia 🇹🇳 🇹🇳 <center>
+# Hi 👋, I'm Ala from Tunisia 🇹🇳 🇹🇳 
 
 <h3 align="center">IT Software Engineer with 2 years of experience as a front-end developer.</h3>
 
