@@ -1,6 +1,6 @@
-# Hi 👋, I'm Ala from Tunisia
+<h1 align="center" > Hi 👋, I'm Ala from Tunisia 🇹🇳 </h1>
 
-<h3 align="center">IT Software Engineer with 2 years of experience as a front-end developer.</h3>
+<h3 align="center" style="color: blue">IT Software Engineer with 2 years of experience as a front-end developer.</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=151385&width=480&lines=Software+Engineer;Experienced+Front+End+Developer;AWS+Certified,+AI+Enthusiast)](https://git.io/typing-svg)
 
@@ -12,7 +12,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ala-kad" alt="ala-kad" /></a> </p>
 
 - 🔭 I’m currently working on *[My Online Porfolio](https://ala-kad.github.io/ "Ala's Portfolio")*
-- 🌱 I’m currently learning **Front-end(UI/UX, Angular, Typescript, javascript, HTML, CSS, Microsoft fundamentals(AI, DATA, Cloud)**
+- 🌱 I’m currently learning **UI/UX, Angular, Typescript, JavaScript, HTML, CSS, Microsoft fundamentals(AI, Data, Cloud)**
 - 📝 I regularly write articles on *[LinkedInd](https://www.linkedin.com/in/ala-kaddechi/)*
 - 💬 Ask me about **SQL, ExpressJS, UI/UX, Computer Science and front-end dev.**
 - 📫 How to reach me ?  via email: <kaddechiala@gmail.com>
