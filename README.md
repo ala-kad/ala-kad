@@ -1,6 +1,6 @@
-<h1 align="center" > Hi 👋, I'm Ala from Tunisia 🇹🇳 </h1>
+<center> # Hi 👋, I'm Ala from Tunisia 🇹🇳 🇹🇳 <center>
 
-<h3 align="center" style="color: blue">IT Software Engineer with 2 years of experience as a front-end developer.</h3>
+<h3 align="center">IT Software Engineer with 2 years of experience as a front-end developer.</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=151385&width=480&lines=Software+Engineer;Experienced+Front+End+Developer;AWS+Certified,+AI+Enthusiast)](https://git.io/typing-svg)
 
