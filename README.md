@@ -1,7 +1,8 @@
-# Hi 👋, I'm Ala Kaddechi
-<h3 align="center">Fresh Grad software Engineer and experienced Full Stack developer from Tunisia.</h3>
+# Hi 👋, I'm Ala from Tunisia
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=151385&width=480&lines=Software+Engineer;Experienced+Front+End+Developer;Cloud,+DevOps,+AI,+Enthusiast)](https://git.io/typing-svg)
+<h3 align="center">IT Software Engineer with 2 years of experience as a front-end developer.</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=151385&width=480&lines=Software+Engineer;Experienced+Front+End+Developer;AWS+Certified,+AI+Enthusiast)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ala-kaddechi/) 
 [![Upwork](https://img.shields.io/badge/upwork-%231DB954.svg?&style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01e2324660108e1882)
@@ -10,16 +11,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ala-kad" alt="ala-kad" /></a> </p>
 
-- 🔭 I’m currently working on [My Online Porfolio (GitHub pages)](https://ala-kad.github.io/)
-- 🌱 I’m currently learning **AI, TypeScript, Angular**
-
-- 📝 I regularly write articles on [LinkedIn](LinkedIn)
-
-- 💬 Ask me about **SQL, JavaScript, UI/UX, Computer Science.**
-
-- 📫 How to reach me **kaddechiala@gmail.com | +216 56 503 894**
-
-- ⚡ Fun fact **I think I am funny**
+- 🔭 I’m currently working on *[My Online Porfolio](https://ala-kad.github.io/ "Ala's Portfolio")*
+- 🌱 I’m currently learning **Front-end(UI/UX, Angular, Typescript, javascript, HTML, CSS, Microsoft fundamentals(AI, DATA, Cloud)**
+- 📝 I regularly write articles on *[LinkedInd](https://www.linkedin.com/in/ala-kaddechi/)*
+- 💬 Ask me about **SQL, ExpressJS, UI/UX, Computer Science and front-end dev.**
+- 📫 How to reach me ?  via email: <kaddechiala@gmail.com>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
