@@ -22,16 +22,14 @@
 ---
 
 ## 🚀 About Me
+  -location: "Tunisia 🇹🇳",
+  -role: "Software Engineer",
+  -experience: "2+ years in Front-End Development",
+  -currentFocus: "Full-Stack Development & AI",
+  -languages: ["JavaScript", "TypeScript", "Python", "Java", "C++"],
+  -askMeAbout: ["Web Development", "UI/UX", "Database Design", "Problem Solving"],
+  -funFact: "I love turning complex problems into simple, beautiful solutions!"
 
-const ala = {
-    location: "Tunisia 🇹🇳",
-    role: "Software Engineer",
-    experience: "2+ years in Front-End Development",
-    currentFocus: "Full-Stack Development & AI",
-    languages: ["JavaScript", "TypeScript", "Python", "Java", "C++"],
-    askMeAbout: ["Web Development", "UI/UX", "Database Design", "Problem Solving"],
-    funFact: "I love turning complex problems into simple, beautiful solutions!"
-};
 
 ## 🔭 Current Projects & Learning
 
