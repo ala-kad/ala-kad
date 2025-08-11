@@ -23,7 +23,7 @@
 
 ## 🚀 About Me
 
-\\`\`javascript
+```javascript
 const ala = {
     location: "Tunisia 🇹🇳",
     role: "Software Engineer",
@@ -33,7 +33,6 @@ const ala = {
     askMeAbout: ["Web Development", "UI/UX", "Database Design", "Problem Solving"],
     funFact: "I love turning complex problems into simple, beautiful solutions!"
 };
-\`\`\`
 
 ## 🔭 Current Projects & Learning
 
