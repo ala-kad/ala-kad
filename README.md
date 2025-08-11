@@ -23,7 +23,7 @@
 
 ## 🚀 About Me
 
-\`\`\`javascript
+\\`\`javascript
 const ala = {
     location: "Tunisia 🇹🇳",
     role: "Software Engineer",
