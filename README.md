@@ -22,21 +22,14 @@
 ---
 
 ## 🚀 About Me
-  -location: "Tunisia 🇹🇳",
-  -role: "Software Engineer",
-  -experience: "2+ years in Front-End Development",
-  -currentFocus: "Full-Stack Development & AI",
-  -languages: ["JavaScript", "TypeScript", "Python", "Java", "C++"],
-  -askMeAbout: ["Web Development", "UI/UX", "Database Design", "Problem Solving"],
-  -funFact: "I love turning complex problems into simple, beautiful solutions!"
-
+Tunisian 🇹🇳, Software Engineer, 2+ years in Front-End Development, proficient in Full-Stack Development & AI.
 
 ## 🔭 Current Projects & Learning
 
 - 🌟 **Currently Working On:** [Next.js Dashboard App](https://github.com/ala-kad/nextjs-dashboard)
 - 📚 **Learning & Practicing:** React.js, Next.js, Advanced JavaScript, Data Structures & Algorithms
 - ✍️ **Content Creation:** Regular articles on [LinkedIn](https://www.linkedin.com/in/ala-kaddechi/)
-- 🎯 **2024 Goals:** Master full-stack development and contribute to open-source projects
+- 🎯 **2025 Goals:** Master full-stack development and contribute to open-source projects
 
 ---
 
